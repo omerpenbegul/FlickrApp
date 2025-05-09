@@ -14,7 +14,7 @@
 		EF4EC1FD2DCC889C0006D931 /* Exceptions for "FlickrApp" folder in "FlickrApp" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				"Supporting Files/Info.plist",
 			);
 			target = EF4EC1EA2DCC889B0006D931 /* FlickrApp */;
 		};
@@ -147,7 +147,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 8GV7LA2PP6;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = FlickrApp/Info.plist;
+				INFOPLIST_FILE = "FlickrApp/Supporting Files/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -175,7 +175,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 8GV7LA2PP6;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = FlickrApp/Info.plist;
+				INFOPLIST_FILE = "FlickrApp/Supporting Files/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
